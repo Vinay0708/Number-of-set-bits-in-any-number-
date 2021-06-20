@@ -3,7 +3,7 @@
 
 int main()
 {   int n,a;
-    printf("Enter no that you want to cunt set bits:\n");
+    printf("Enter no that you want to count set bits:\n or hi User ek number do jiska set bits count karna hai:");
     scanf("%d",&n);
     int count=0;
     a=n;
